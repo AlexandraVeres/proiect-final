@@ -1,0 +1,4 @@
+       FACTURA          
+Produs:Cercei-->Price:35
+Produs:Cercei-->Price:35
+Pret total:-->70
